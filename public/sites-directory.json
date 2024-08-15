@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 2,
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tools"
+  },
+  {
+    "id": 3,
+    "name": "Frontend Mentor",
+    "url": "https://www.frontendmentor.io",
+    "difficulty_level": 3,
+    "access_type": "freemium",
+    "type_of_resource": "projects"
+  },
+  {
+    "id": 4,
+    "name": "Udemy",
+    "url": "https://www.udemy.com",
+    "difficulty_level": 2,
+    "access_type": "paid",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 5,
+    "name": "Frontend Masters",
+    "url": "https://frontendmasters.com",
+    "difficulty_level": 4,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 6,
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 7,
+    "name": "Kevin Powell",
+    "url": "https://www.kevinpowell.co",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 8,
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 9,
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 10,
+    "name": "Udacity",
+    "url": "https://www.udacity.com",
+    "difficulty_level": 3,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 11,
+    "name": "Scrimba",
+    "url": "https://www.scrimba.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "interactive-tutorials"
+  },
+  {
+    "id": 12,
+    "name": "Git Documentation",
+    "url": "https://git-scm.com/doc",
+    "difficulty_level": 3,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 13,
+    "name": "The Odin Project",
+    "url": "https://www.theodinproject.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 14,
+    "name": "CSS Weekly",
+    "url": "https://css-weekly.com/",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "newsletter"
+  },
+  {
+    "id": 15,
+    "name": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "difficulty_level": 1,
+    "access_type": "freemium",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 16,
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 17,
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "difficulty_level": 3,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 18,
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 19,
+    "name": "Codewars",
+    "url": "https://www.codewars.com",
+    "difficulty_level": 3,
+    "access_type": "free",
+    "type_of_resource": "coding-challenges"
+  },
+  {
+    "id": 20,
+    "name": "Accessibility Weekly",
+    "url": "https://a11yweekly.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "newsletter"
+  },
+  {
+    "id": 21,
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "difficulty_level": 3,
+    "access_type": "freemium",
+    "type_of_resource": "coding-challenges"
+  },
+  {
+    "id": 22,
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com",
+    "difficulty_level": 3,
+    "access_type": "freemium",
+    "type_of_resource": "coding-challenges"
+  },
+  {
+    "id": 23,
+    "name": "JavaScript Info",
+    "url": "https://javascript.info",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 24,
+    "name": "CodePen",
+    "url": "https://codepen.io",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "interactive-coding-environment"
+  },
+  {
+    "id": 25,
+    "name": "CSS Grid Garden",
+    "url": "https://cssgridgarden.com",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "interactive-game"
+  },
+  {
+    "id": 26,
+    "name": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "interactive-game"
+  },
+  {
+    "id": 27,
+    "name": "Flexbox Zombies",
+    "url": "https://mastery.games/p/flexbox-zombies",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "interactive-game"
+  },
+  {
+    "id": 28,
+    "name": "Grid Critters",
+    "url": "https://mastery.games/p/grid-critters",
+    "difficulty_level": 2,
+    "access_type": "paid",
+    "type_of_resource": "interactive-game"
+  },
+  {
+    "id": 29,
+    "name": "SoloLearn",
+    "url": "https://www.sololearn.com",
+    "difficulty_level": 1,
+    "access_type": "freemium",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 30,
+    "name": "SitePoint",
+    "url": "https://www.sitepoint.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 30,
+    "name": "JavaScript 30",
+    "url": "https://javascript30.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 31,
+    "name": "A List Apart",
+    "url": "https://alistapart.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 32,
+    "name": "The Net Ninja",
+    "url": "https://www.thenetninja.co.uk",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 33,
+    "name": "Exercism",
+    "url": "https://exercism.io",
+    "difficulty_level": 3,
+    "access_type": "free",
+    "type_of_resource": "coding-challenges"
+  },
+  {
+    "id": 34,
+    "name": "Scotch.io",
+    "url": "https://scotch.io",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 35,
+    "name": "Go Make Things",
+    "url": "https://gomakethings.com/",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "articles and tutorials"
+  },
+  {
+    "id": 36,
+    "name": "Tuts+",
+    "url": "https://tutsplus.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 37,
+    "name": "Design+Code",
+    "url": "https://designcode.io",
+    "difficulty_level": 3,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 38,
+    "name": "Learn JavaScript",
+    "url": "https://learnjavascript.online",
+    "difficulty_level": 2,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 39,
+    "name": "Wes Bos",
+    "url": "https://wesbos.com",
+    "difficulty_level": 2,
+    "access_type": "paid with Free Samples",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 40,
+    "name": "Frontend Focus",
+    "url": "https://frontendfoc.us",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "newsletter"
+  },
+  {
+    "id": 41,
+    "name": "JavaScript Weekly",
+    "url": "https://javascriptweekly.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "newsletter"
+  },
+  {
+    "id": 42,
+    "name": "The Practical Dev (Dev.to)",
+    "url": "https://dev.to",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "articles"
+  },
+  {
+    "id": 43,
+    "name": "Vue Mastery",
+    "url": "https://www.vuemastery.com",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 44,
+    "name": "Vue School",
+    "url": "https://vueschool.io",
+    "difficulty_level": 2,
+    "access_type": "freemium",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 45,
+    "name": "Vue.js Documentation",
+    "url": "https://vuejs.org/v2/guide/",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 46,
+    "name": "Three.js Fundamentals",
+    "url": "https://threejsfundamentals.org",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 47,
+    "name": "Discover Three.js",
+    "url": "https://discoverthreejs.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tutorials"
+  },
+  {
+    "id": 48,
+    "name": "Three.js Journey",
+    "url": "https://threejs-journey.com",
+    "difficulty_level": 3,
+    "access_type": "paid",
+    "type_of_resource": "courses"
+  },
+  {
+    "id": 49,
+    "name": "Bootstrap Documentation",
+    "url": "https://getbootstrap.com/docs",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 50,
+    "name": "Tailwind CSS Documentation",
+    "url": "https://tailwindcss.com/docs",
+    "difficulty_level": 1,
+    "access_type": "free",
+    "type_of_resource": "documentation"
+  },
+  {
+    "id": 51,
+    "name": "Tailwind Toolbox",
+    "url": "https://tailwindtoolbox.com",
+    "difficulty_level": 2,
+    "access_type": "free",
+    "type_of_resource": "tools"
+  }
+]
