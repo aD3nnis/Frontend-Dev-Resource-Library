@@ -1,4 +1,4 @@
-# company-sites-library-app
+# Frontend-Dev-Resource-Library
 
 This template should help get you started developing with Vue 3 in Vite.
 
