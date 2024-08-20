@@ -51,7 +51,7 @@
           <div>
             <FilterCheckBox
                 filter-type="type_of_resource"
-                filter-value="coding-challenges"
+                filter-value="codingChallenges"
                 label="Coding Challenges"
             />
           </div>
@@ -86,21 +86,21 @@
           <div>
             <FilterCheckBox
                 filter-type="type_of_resource"
-                filter-value="interactive-tutorials"
+                filter-value="interactiveTutorials"
                 label="Interactive Tutorials"
             />
           </div>
           <div>
             <FilterCheckBox
                 filter-type="type_of_resource"
-                filter-value="interactive-game"
+                filter-value="interactiveGame"
                 label="Interactive Games"
             />
           </div>
           <div>
             <FilterCheckBox
                 filter-type="type_of_resource"
-                filter-value="interactive-coding-environment"
+                filter-value="interactiveCodingEnvironment"
                 label="Interactive Coding Environment"
             />
           </div>
