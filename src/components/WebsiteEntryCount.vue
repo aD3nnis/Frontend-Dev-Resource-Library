@@ -82,7 +82,7 @@ watch(()=> searchResultsSites, changeEntryView );
     margin-bottom: 20px;
 }
 .clicked-tab-container{
-    width: 40px;
+    width: 50px;
     height: 20px;
     border: 1px solid #999999;
     border-radius: 5px;
