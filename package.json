@@ -15,7 +15,8 @@
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "vue": "^3.4.29",
-    "vue-awesome-paginate": "^1.2.0"
+    "vue-awesome-paginate": "^1.2.0",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
